@@ -2,7 +2,7 @@
 - Things I might want to install when switching distros going to a new machine 
 
 ## Ubuntu
-## Necesities
+### Necesities
 - Curl ```sudo apt install curl```
 - cask ```curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python```
 - Git 
@@ -13,12 +13,12 @@
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
 - ivy (look up)
 
-## Good Fonts For Programming
+### Good Fonts For Programming
 - Hack (Personal Favorite)
 - Source Code Pro
 - Inconsolata
 
-## Programming 
+### Programming 
 - Gcc ```sudo-apt get install gcc```
 - Clang ```sudo apt-get install clang```
 - LibClang ```sudo apt-get install libclang-dev```
@@ -53,7 +53,7 @@
 - - ```Path Intellisense```
 - - ```Prettier```
 - Emacs ```sudo apt-get install emacs26 auctex ```
-## Mundane
+### Mundane
 - Spotify
 - - ```sudo apt-get install snapd```
 - - ```sudo snap install spotify```
