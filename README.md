@@ -2,6 +2,11 @@
 - Things I might want to install when switching distros going to a new machine 
 
 ## Ubuntu
+
+### Commands
+- Install Command ``` sudo apt-get install [package-name] ```
+- Delete Command ``` sudo apt-get remove [package-name]```
+
 ### Necesities
 - Curl ```sudo apt install curl```
 - cask ```curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python```
@@ -64,3 +69,7 @@
 
 
 ## Antergos (Arch)
+
+### Commands
+- Install Command ``` sudo pacman -S [package-name] ```
+- Delete Command ``` sudo pacman -R [package-name]```
