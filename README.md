@@ -1,7 +1,12 @@
 # Linux-Distro-Testing
 - Things I might want to install when switching distros going to a new machine 
 
-## Ubuntu
+### Good Fonts For Programming
+- Hack (Personal Favorite)
+- Source Code Pro
+- Inconsolata
+
+## Ubuntu (Debian)
 
 ### Commands
 - Install Command ``` sudo apt-get install [package-name] ```
@@ -17,12 +22,6 @@
 - GDB (debugger) ```sudo apt-get install gdb```
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
 - ivy (look up)
-
-### Good Fonts For Programming
-- Hack (Personal Favorite)
-- Source Code Pro
-- Inconsolata
-
 ### Programming 
 - Gcc ```sudo-apt get install gcc```
 - Clang ```sudo apt-get install clang```
