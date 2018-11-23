@@ -63,4 +63,4 @@
 
 
 
-## Arch (Currently testing Antergos)
+## Antergos (Arch)
