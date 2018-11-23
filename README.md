@@ -73,3 +73,24 @@
 ### Commands
 - Install Command ``` sudo pacman -S [package-name] ```
 - Delete Command ``` sudo pacman -R [package-name]```
+
+####  General Programming
+-  ``` sudo pacman -S git ```
+- ``` sudo pacman -S gdb ```
+- ``` sudo pacman -S curl ```
+#### C/C++
+- ``` sudo pacman -S base-devel ```
+- ``` sudo pacman -S clang ```
+- ``` sudp pacman -S cmake
+- ``` sudo pacman -S libc++ ```
+- ``` sudo pacman -S ctags ```
+#### Python
+- ``` sudo pacman -S python3 ```
+- ``` sudo pacman -S python-pip ```
+- ``` sudo pacman -S pyenv ```
+#### Javascript
+- ``` sudo pacman -S nodejs ```
+- ``` sudo pacman -S npm ```
+
+### Browsing and neftlix
+-  ``` sudo pacman -S pipelight ```
