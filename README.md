@@ -81,7 +81,7 @@
 #### C/C++
 - ``` sudo pacman -S base-devel ```
 - ``` sudo pacman -S clang ```
-- ``` sudp pacman -S cmake
+- ``` sudp pacman -S cmake ```
 - ``` sudo pacman -S libc++ ```
 - ``` sudo pacman -S ctags ```
 #### Python
