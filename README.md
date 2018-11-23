@@ -1,2 +1,6 @@
 # Linux-Distro-Testing
-Things to install when trying different distros 
+- Things I might want to install when switching distros going to a new machine 
+
+## Ubuntu
+
+## Arch (Currently testing Antergos)
