@@ -77,6 +77,7 @@
 -  ``` sudo pacman -S git ```
 - ``` sudo pacman -S gdb ```
 - ``` sudo pacman -S curl ```
+- ``` sudo pacman -S ranger ```
 #### C/C++
 - ``` sudo pacman -S base-devel ```
 - ``` sudo pacman -S clang ```
