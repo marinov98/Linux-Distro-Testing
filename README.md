@@ -82,6 +82,7 @@
 - ``` sudo pacman -S clang ```
 - ``` sudp pacman -S cmake ```
 - ``` sudo pacman -S llvm ```
+- ``` sudo pacman -S lldb ```
 - ``` sudo pacman -S ctags ```
 #### Python
 - ``` sudo pacman -S python3 ```
