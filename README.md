@@ -93,7 +93,10 @@
 - ``` sudo pacman -S npm ```
 
 ### Browsing and neftlix
--  ``` sudo pacman -S pipelight ```
+- ``` sudo packman -S google-chrome ```
+-  ``` sudo pacman -S chrome-widevine ```
+-  ``` sudo pacman -S pepper-flash ```
+
 
 ### Emacs
 - emacs ``` sudo pacman -S emacs```
