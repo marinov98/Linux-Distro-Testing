@@ -65,6 +65,13 @@
 - Skype
 - Ranger (preinstalled on ubuntu) 
 
+### Gaming
+- ```wget -nc https://dl.winehq.org/wine-builds/Release.key ```
+- ```sudo apt-key add Release.key```
+- ```sudo apt-add-repository 'https://dl.winehq.org/wine-builds/ubuntu/' ```
+- ``` sudo apt update ```
+- ``` sudo apt install --install-recommends winehq-staging```
+- ``` sudo apt install winetricks ```
 
 
 ## Antergos (Arch)
@@ -72,6 +79,7 @@
 ### Commands
 - Install Command ``` sudo pacman -S [package-name] ```
 - Delete Command ``` sudo pacman -R [package-name]```
+- Update ``` sudo pacman -Sy ```
 
 ####  General Programming
 -  ``` sudo pacman -S git ```
@@ -97,9 +105,10 @@
 - ``` sudo packman -S google-chrome ```
 -  ``` sudo pacman -S chrome-widevine ```
 -  ``` sudo pacman -S pepper-flash ```
-
-
 ### Emacs
 - emacs ``` sudo pacman -S emacs```
 - auctex ``` sudo pacman -S auctex```
 - cask ```curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python```
+### Gaming 
+- ```sudo pacman -S wine-staging winetricks```
+- ```sudo pacman -S giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox ```
