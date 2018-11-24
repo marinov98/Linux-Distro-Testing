@@ -94,3 +94,8 @@
 
 ### Browsing and neftlix
 -  ``` sudo pacman -S pipelight ```
+
+### Emacs
+- emacs ``` sudo pacman -S emacs```
+- auctex ``` sudo pacman -S auctex```
+- cask ```curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python```
