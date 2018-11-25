@@ -11,6 +11,7 @@
 ### Commands
 - Install Command ``` sudo apt-get install [package-name] ```
 - Delete Command ``` sudo apt-get remove [package-name]```
+- Update Command ``` sudo apt-get upgrade [package-name] ```
 
 ### Necesities
 - Curl ```sudo apt install curl```
@@ -101,10 +102,11 @@
 - ``` sudo pacman -S nodejs ```
 - ``` sudo pacman -S npm ```
 
-### Browsing and neftlix
+### Browsing, neftlix & Video Player
 - ``` sudo packman -S google-chrome ```
 -  ``` sudo pacman -S chrome-widevine ```
 -  ``` sudo pacman -S pepper-flash ```
+- ``` sudo pacman -S vlc ```
 ### Emacs
 - emacs ``` sudo pacman -S emacs```
 - auctex ``` sudo pacman -S auctex```
