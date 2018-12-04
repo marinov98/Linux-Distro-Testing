@@ -104,6 +104,10 @@
 - ``` sudo pacman -S gdb ```
 - ``` sudo pacman -S curl ```
 - ``` sudo pacman -S ranger ```
+#### Keyboard configuration
+- On Gnome: ```sudo pacman -S gnome-tweak-tool```
+- General: ```sudo pacman -S xorg-xmodmap```
+- Graphical front end: ```sudo pacman -S xkeycaps```
 #### C/C++
 - ``` sudo pacman -S base-devel ```
 - ``` sudo pacman -S clang ```
