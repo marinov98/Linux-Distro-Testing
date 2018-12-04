@@ -32,6 +32,8 @@
 1. ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null```
 2.```brew install curl```
 - cask: ```brew install cask```
+- Ranger: ```brew install ranger```
+- tmux: ``` brew install tmux```
 ### Programming
 - pip: ```brew install pip```
 - Xcode setpaths: ```xcode-select --install```
