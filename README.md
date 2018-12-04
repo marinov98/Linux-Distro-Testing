@@ -2,9 +2,9 @@
 - In case I go to a new machine I know what to install immediately
 
 # Table of Contents
-1. MacOS
-2. Ubuntu
-3. Antergos-Arch
+1. [MacOS](#MacOs)
+2. [Ubuntu](#Ubuntu)
+3. [Antergos-Arch](#Antergos-Arch)
 
 ### Good Fonts For Programming
 - Hack (Personal Favorite)
@@ -88,7 +88,7 @@
 - ``` sudo apt install winetricks ```
 
 
-## Antergos (Arch)
+## Antergos-Arch
 
 ### Fonts
 - Hack: ``` sudo pacman -S ttf-hack ```
