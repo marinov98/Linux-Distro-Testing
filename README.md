@@ -20,12 +20,33 @@
   - pygments : ```pip install pygments```
   - virtualenv & virtualenvwrapper: ```pip install virtualenv virtualenvwrapper```
   
+### Npm
+- tern: ```sudo npm install -g tern```
+- eslint: ```npm install eslint```
+  
 ## MacOS
 
-## Ubuntu
+### Necesities
+- [brew](https://brew.sh/)
+- curl:
+1. ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null```
+2.```brew install curl```
+- cask: ```brew install cask```
+### Programming
+- pip: ```brew install pip```
+- Xcode setpaths: ```xcode-select --install```
+- llvm: ```brew install --with-toolchain llvm```
+- clang-format: ```brew install clang-format```
+- ctags ```brew install ctags```
+- gdb ```brew install gdb```
+- npm: ```brew install npm```
+### Keyboard Configuration
+Karabiner: ```brew cask install karabiner karabiner-elements```
+### Latex
+- MacTex
 
-### Fonts
-- Ubuntu font book
+
+## Ubuntu
 
 ### Commands
 - Install Command ``` sudo apt-get install [package-name] ```
@@ -41,7 +62,6 @@
 3. ```git config --global user.email "youremail@domain.com"```
 - GDB (debugger) ```sudo apt-get install gdb```
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
-- ivy (look up)
 ### Programming 
 - Gcc ```sudo-apt get install gcc```
 - Clang ```sudo apt-get install clang```
@@ -50,26 +70,26 @@
 - ctags ```sudo apt-get install ctags```
 - cmake ```sudo apt-get install cmake```
 - Python
-- - ```sudo apt-get install python-pip```
-- - ```sudo apt-get install virtualenv``` && ```sudo pip install virtualenv``` 
+  - ```sudo apt-get install python-pip```
+  - ```sudo apt-get install virtualenv``` && ```sudo pip install virtualenv``` 
 - **LATEX** ```sudo apt-get install texlive-full```
 - Web dev tools
-- - npm (look up)
-- - react
+  - npm (look up)
+  - react
 ## Editors 
 - Gummi text editor (Latex text editor as backup to emac's auctex) ```sudo apt install gummi```
 -  vs code (backup in case new language is used) ```sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make```
-- - ```sudo apt-get update```
-- - ```sudo apt-get install ubuntu-make```
-- - ```umake web visual-studio-code```
+  - ```sudo apt-get update```
+  - ```sudo apt-get install ubuntu-make```
+  - ```umake web visual-studio-code```
 - Extensions for vs code: 
-- - ```Auto Close Tag```
-- - ```Auto Rename Tag```
-- - ```Color Highlight```
-- - ```Project manager```
-- - ```Paste and Indent```
-- - ```Path Intellisense```
-- - ```Prettier```
+  - ```Auto Close Tag```
+  - ```Auto Rename Tag```
+  - ```Color Highlight```
+  - ```Project manager```
+  - ```Paste and Indent```
+  - ```Path Intellisense```
+  - ```Prettier```
 - Emacs ```sudo apt-get install emacs26 auctex ```
 ### Mundane
 - Spotify
@@ -77,7 +97,6 @@
 - - ```sudo snap install spotify```
 - Chromium-browser ```sudo apt install -y chromium-browser```
 - Skype
-- Ranger (preinstalled on ubuntu) 
 
 ### Gaming
 - ```wget -nc https://dl.winehq.org/wine-builds/Release.key ```
