@@ -47,14 +47,20 @@
 Karabiner: ```brew cask install karabiner karabiner-elements```
 ### Latex
 - MacTex
-
+## Emacs and Vim
+- emacs:
+    1. ```brew tap d12frosted/emacs-plus```
+    2. ```brew install emacs-plus```
+- Vim:
+    1. ```brew install vim && brew install macvim```
+    2. ```brew link macvim```
 
 ## Ubuntu
 
 ### Commands
-- Install Command ``` sudo apt-get install [package-name] ```
-- Delete Command ``` sudo apt-get remove [package-name]```
-- Update Command ``` sudo apt-get upgrade [package-name] ```
+- Install Command ```sudo apt-get install [package-name]```
+- Delete Command ```sudo apt-get remove [package-name]```
+- Update Command ```sudo apt-get upgrade [package-name]```
 
 ### Necesities
 - Curl ```sudo apt install curl```
