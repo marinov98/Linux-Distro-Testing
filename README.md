@@ -40,6 +40,7 @@
 - ctags ```brew install ctags```
 - gdb ```brew install gdb```
 - npm: ```brew install npm```
+- node: ```brew install node```
 ### Keyboard Configuration
 Karabiner: ```brew cask install karabiner karabiner-elements```
 ### Latex
