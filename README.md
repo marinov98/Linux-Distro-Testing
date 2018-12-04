@@ -1,5 +1,10 @@
-# Linux-Distro-Testing
-- Things I might want to install when switching distros going to a new machine 
+# Purpose
+- In case I go to a new machine I know what to install immediately
+
+# Table of Contents
+1. MacOS
+2. Ubuntu
+3. Antergos-Arch
 
 ### Good Fonts For Programming
 - Hack (Personal Favorite)
@@ -7,14 +12,17 @@
 - Inconsolata
 
 ### Pip
-- - Rope: ```pip install rope``` 
-- - Jedi: ```pip install jedi``` 
-- - flake: ```pip install flake8``` 
-- - autopep: ```pip install autopep8```  
-- - yapf: ```pip install yapf``` 
-- - pygments : ```pip install pygments```
+  - Rope: ```pip install rope``` 
+  - Jedi: ```pip install jedi``` 
+  - flake: ```pip install flake8``` 
+  - autopep: ```pip install autopep8```  
+  - yapf: ```pip install yapf``` 
+  - pygments : ```pip install pygments```
+  - virtualenv & virtualenvwrapper: ```pip install virtualenv virtualenvwrapper```
+  
+## MacOS
 
-## Ubuntu (Debian)
+## Ubuntu
 
 ### Fonts
 - Ubuntu font book
