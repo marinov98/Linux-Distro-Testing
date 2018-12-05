@@ -147,7 +147,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Graphical front end: ```sudo pacman -S xkeycaps```
 - Caps2esc: ```sudo pacman -S interception-caps2esc```
 - in ```/etc/udevmon.yaml``` add:
-```- JOB: "intercept -g $DEVNODE | caps2esc | uinput -d $DEVNODE"
+``` yaml
+- JOB: "intercept -g $DEVNODE | caps2esc | uinput -d $DEVNODE"
   DEVICE:
     EVENTS:
       EV_KEY: [KEY_CAPSLOCK, KEY_ESC]
