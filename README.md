@@ -73,7 +73,10 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 2. ```git config --global user.name "Your Name"```
 3. ```git config --global user.email "youremail@domain.com"```
 - GDB (debugger) ```sudo apt-get install gdb```
+### Keyboard configuration
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
+- xcape ```sudo apt install xcape```
+- Make caps lock esc & control: ```xcape -e 'Control_L=Escape'```
 ### Programming 
 - Gcc ```sudo-apt get install gcc```
 - Clang ```sudo apt-get install clang```
@@ -142,6 +145,14 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - On Gnome: ```sudo pacman -S gnome-tweak-tool```
 - General: ```sudo pacman -S xorg-xmodmap```
 - Graphical front end: ```sudo pacman -S xkeycaps```
+- Caps2esc: ```sudo pacman -S interception-caps2esc```
+- in ```/etc/udevmon.yaml``` add:
+```- JOB: "intercept -g $DEVNODE | caps2esc | uinput -d $DEVNODE"
+  DEVICE:
+    EVENTS:
+      EV_KEY: [KEY_CAPSLOCK, KEY_ESC]
+ ```
+- Finally, ```sudo systemctl enable udevmon```
 #### C/C++
 - ``` sudo pacman -S base-devel ```
 - ``` sudo pacman -S clang ```
