@@ -78,6 +78,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - llvm ```sudo apt-get install lldb```
 - ctags ```sudo apt-get install ctags```
 - cmake ```sudo apt-get install cmake```
+- clang-format ```sudo apt-get install clang-format```
 - Python
   - ```sudo apt-get install python-pip```
   - ```sudo apt-get install virtualenv``` && ```sudo pip install virtualenv``` 
@@ -143,6 +144,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - ``` sudo pacman -S llvm ```
 - ``` sudo pacman -S lldb ```
 - ``` sudo pacman -S ctags ```
+- ``` sudo pacman -S clang-format```
 #### Python
 - ``` sudo pacman -S python3 ```
 - ``` sudo pacman -S python-pip ```
