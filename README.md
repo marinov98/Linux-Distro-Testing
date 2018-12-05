@@ -54,6 +54,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Vim:
     1. ```brew install vim && brew install macvim```
     2. ```brew link macvim```
+## Zshell
+- ```brew install zsh zsh-completions```
+
 
 ## Ubuntu
 
@@ -115,6 +118,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - ``` sudo apt update ```
 - ``` sudo apt install --install-recommends winehq-staging```
 - ``` sudo apt install winetricks ```
+### Zshell
+- ```sudo apt-get install zsh```
 
 
 ## Antergos-Arch
