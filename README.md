@@ -51,7 +51,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### Latex
 - MacTex
 
-## Emacs and Vim
+### Emacs and Vim
 - emacs:
     1. ```brew tap d12frosted/emacs-plus```
     2. ```brew install emacs-plus```
@@ -59,7 +59,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
     1. ```brew install vim && brew install macvim```
     2. ```brew link macvim```
     
-## Zshell
+### Zshell
 - ```brew install zsh zsh-completions```
 
 
