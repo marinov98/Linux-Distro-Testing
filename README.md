@@ -103,8 +103,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Emacs ```sudo apt-get install emacs26 auctex ```
 ### Mundane
 - Spotify
-- - ```sudo apt-get install snapd```
-- - ```sudo snap install spotify```
+  - ```sudo apt-get install snapd```
+  - ```sudo snap install spotify```
 - Chromium-browser ```sudo apt install -y chromium-browser```
 - Skype
 
