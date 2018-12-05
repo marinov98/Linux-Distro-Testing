@@ -34,6 +34,7 @@
 - cask: ```brew install cask```
 - Ranger: ```brew install ranger```
 - tmux: ``` brew install tmux```
+
 ### Programming
 - pip: ```brew install pip```
 - Xcode setpaths: ```xcode-select --install```
@@ -43,10 +44,13 @@
 - gdb ```brew install gdb```
 - npm: ```brew install npm```
 - node: ```brew install node```
+
 ### Keyboard Configuration
 Karabiner: ```brew cask install karabiner karabiner-elements```
+
 ### Latex
 - MacTex
+
 ## Emacs and Vim
 - emacs:
     1. ```brew tap d12frosted/emacs-plus```
@@ -54,6 +58,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Vim:
     1. ```brew install vim && brew install macvim```
     2. ```brew link macvim```
+    
 ## Zshell
 - ```brew install zsh zsh-completions```
 
@@ -73,10 +78,12 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 2. ```git config --global user.name "Your Name"```
 3. ```git config --global user.email "youremail@domain.com"```
 - GDB (debugger) ```sudo apt-get install gdb```
+
 ### Keyboard configuration
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
 - xcape ```sudo apt install xcape```
 - Make caps lock esc & control: ```xcape -e 'Control_L=Escape'```
+
 ### Programming 
 - Gcc ```sudo-apt get install gcc```
 - Clang ```sudo apt-get install clang```
@@ -92,6 +99,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Web dev tools
   - npm (look up)
   - react
+  
 ## Editors 
 - Gummi text editor (Latex text editor as backup to emac's auctex) ```sudo apt install gummi```
 -  vs code (backup in case new language is used) ```sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make```
@@ -107,6 +115,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
   - ```Path Intellisense```
   - ```Prettier```
 - Emacs ```sudo apt-get install emacs26 auctex ```
+
 ### Mundane
 - Spotify
   - ```sudo apt-get install snapd```
@@ -121,20 +130,21 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - ``` sudo apt update ```
 - ``` sudo apt install --install-recommends winehq-staging```
 - ``` sudo apt install winetricks ```
+
 ### Zshell
 - ```sudo apt-get install zsh```
 
 
 ## Antergos-Arch
 
-### Fonts
-- Hack: ``` sudo pacman -S ttf-hack ```
-- Source Code Pro: ``` sudo pacman -S adobe-source-code-pro-fonts ```
-
 ### Commands
 - Install Command ``` sudo pacman -S [package-name] ```
 - Delete Command ``` sudo pacman -R [package-name]```
 - Update ``` sudo pacman -Sy ```
+
+### Fonts
+- Hack: ``` sudo pacman -S ttf-hack ```
+- Source Code Pro: ``` sudo pacman -S adobe-source-code-pro-fonts ```
 
 ####  General Programming
 -  ``` sudo pacman -S git ```
