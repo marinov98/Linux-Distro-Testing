@@ -85,6 +85,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Make caps lock esc & control: ```xcape -e 'Control_L=Escape'```
 
 ### Programming 
+- build-essential ```sudo apt-get build-essential```
 - Gcc ```sudo-apt get install gcc```
 - Clang ```sudo apt-get install clang```
 - LibClang ```sudo apt-get install libclang-dev```
