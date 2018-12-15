@@ -49,7 +49,8 @@
 Karabiner: ```brew cask install karabiner karabiner-elements```
 
 ### Latex
-- MacTex
+- ```brew tap caskroom/cask```
+- ```brew cask install mactex```
 
 ### Emacs and Vim
 - emacs:
