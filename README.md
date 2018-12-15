@@ -82,7 +82,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### Keyboard configuration
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
 - xcape ```sudo apt install xcape```
-- Make caps lock esc & control: ```xcape -e 'Control_L=Escape'```
+  - Make caps lock esc & control: ```xcape -e 'Control_L=Escape'``` or  
+  -```xcape -e '#66=Escape``` if the first command didnt work
 
 ### Programming 
 - build-essential ```sudo apt-get install build-essential```
