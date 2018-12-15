@@ -29,8 +29,8 @@
 ### Necesities
 - [brew](https://brew.sh/)
 - curl:
-1. ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null```
-2.```brew install curl```
+  - ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null```
+  - ```brew install curl```
 - cask: ```brew install cask```
 - Ranger: ```brew install ranger```
 - tmux: ``` brew install tmux```
@@ -54,11 +54,11 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 
 ### Emacs and Vim
 - emacs:
-    1. ```brew tap d12frosted/emacs-plus```
-    2. ```brew install emacs-plus```
+  - ```brew tap d12frosted/emacs-plus```
+  - ```brew install emacs-plus```
 - Vim:
-    1. ```brew install vim && brew install macvim```
-    2. ```brew link macvim```
+  - ```brew install vim && brew install macvim```
+  - ```brew link macvim```
     
 ### Zshell
 - ```brew install zsh zsh-completions```
@@ -75,9 +75,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Curl ```sudo apt install curl```
 - cask ```curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python```
 - Git 
-1. ```sudo apt install git```
-2. ```git config --global user.name "Your Name"```
-3. ```git config --global user.email "youremail@domain.com"```
+  - ```sudo apt install git```
+  - ```git config --global user.name "Your Name"```
+  - ```git config --global user.email "youremail@domain.com"```
 - GDB (debugger) ```sudo apt-get install gdb```
 
 ### Keyboard configuration
