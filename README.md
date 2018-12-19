@@ -30,10 +30,11 @@
 - ```Prettier```
 - ```Bracket pair colorizer```
 - ```vim```
-- ```C++```
+- ```C++ && Clang Adapter```
 - ```Python```
 - ```JavaScript```
 - ```gitlenns```
+- ```Chrome debugger```
   
   
 ### Npm
