@@ -35,7 +35,7 @@
 - ```JavaScript```
 - ```gitlenns```
 - ```Chrome debugger```
-- ```Bookmarks & project manager```
+- ```Bookmarks & (git)project manager```
   
   
 ### Npm
