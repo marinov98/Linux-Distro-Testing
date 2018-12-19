@@ -117,7 +117,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Python
   - ```sudo apt-get install python-pip```
   - ```sudo apt-get install virtualenv``` && ```sudo pip install virtualenv``` 
-- **LATEX** ```sudo apt-get install texlive-full```
+- **LATEX** ```sudo apt-get install texlive-full``` & ```sudo apt install gummi```
 - Web dev tools
   - npm (look up)
   - react
