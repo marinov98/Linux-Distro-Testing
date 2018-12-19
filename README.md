@@ -130,6 +130,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
   - ```umake web visual-studio-code```
 - Emacs ```sudo apt-get install emacs26 auctex ```
 
+## Battery Management
+- ```sudo apt install tlp``` &```sudo apt install tlpui```
+
 ### Mundane
 - Spotify
   - ```sudo apt-get install snapd```
