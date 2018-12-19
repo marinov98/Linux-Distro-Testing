@@ -20,6 +20,22 @@
   - pygments : ```pip install pygments```
   - virtualenv & virtualenvwrapper: ```pip install virtualenv virtualenvwrapper```
   
+### Extensions for vs code: 
+- ```Auto Close Tag```
+- ```Auto Rename Tag```
+- ```Color Highlight```
+- ```Project manager```
+- ```Paste and Indent```
+- ```Path Intellisense```
+- ```Prettier```
+- ```Bracket pair colorizer```
+- ```vim```
+- ```C++```
+- ```Python```
+- ```JavaScript```
+- ```gitlenns```
+  
+  
 ### Npm
 - tern: ```sudo npm install -g tern```
 - eslint: ```npm install eslint```
@@ -110,14 +126,6 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
   - ```sudo apt-get update```
   - ```sudo apt-get install ubuntu-make```
   - ```umake web visual-studio-code```
-- Extensions for vs code: 
-  - ```Auto Close Tag```
-  - ```Auto Rename Tag```
-  - ```Color Highlight```
-  - ```Project manager```
-  - ```Paste and Indent```
-  - ```Path Intellisense```
-  - ```Prettier```
 - Emacs ```sudo apt-get install emacs26 auctex ```
 
 ### Mundane
