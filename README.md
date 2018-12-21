@@ -51,6 +51,7 @@
   - ```brew install curl```
 - cask: ```brew install cask```
 - Ranger: ```brew install ranger```
+- nnn: ```brew install nnn```
 - tmux: ``` brew install tmux```
 
 ### Programming
@@ -113,6 +114,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - llvm ```sudo apt-get install lldb```
 - ctags ```sudo apt-get install ctags```
 - cmake ```sudo apt-get install cmake```
+- ranger: ```sudo apt-get install ranger```
+- nnn: ```sudoapt-get install nnn```
 - clang-format ```sudo apt-get install clang-format```
 - Python
   - ```sudo apt-get install python-pip```
@@ -168,6 +171,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - ``` sudo pacman -S gdb ```
 - ``` sudo pacman -S curl ```
 - ``` sudo pacman -S ranger ```
+- ```sudo pacman -S nnn```
 #### Keyboard configuration
 - On Gnome: ```sudo pacman -S gnome-tweak-tool```
 - General: ```sudo pacman -S xorg-xmodmap```
