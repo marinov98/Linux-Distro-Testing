@@ -44,6 +44,14 @@
   
 ## MacOS
 
+### useful apps
+- snaptool 
+- thought train
+- there (time zones)
+- deskcover
+- bartender (hiding)
+- pad very clock 
+
 ### Necesities
 - [brew](https://brew.sh/)
 - curl:
