@@ -50,7 +50,7 @@
 - there (time zones)
 - deskcover
 - bartender (hiding)
-- pad very clock 
+- padbury clock 
 
 ### Necesities
 - [brew](https://brew.sh/)
