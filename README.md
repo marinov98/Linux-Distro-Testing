@@ -11,7 +11,7 @@
 - Source Code Pro
 - Inconsolata
 
-### Pip
+### Pip (For Python developement)
   - Rope: ```pip install rope``` 
   - Jedi: ```pip install jedi``` 
   - flake: ```pip install flake8``` 
