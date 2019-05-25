@@ -11,6 +11,11 @@
 - Source Code Pro
 - Inconsolata
 
+# Tiling managers and terminal multiplexers
+- i3wn
+- tmux
+
+
 ### Pip (For Python developement)
   - Rope: ```pip install rope``` 
   - Jedi: ```pip install jedi``` 
