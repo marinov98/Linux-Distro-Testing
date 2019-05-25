@@ -58,6 +58,7 @@
 - deskcover
 - bartender (hiding)
 - padbury clock 
+- trash-cli
 
 ### Necesities
 - [brew](https://brew.sh/)
