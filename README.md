@@ -58,7 +58,6 @@
 - deskcover
 - bartender (hiding)
 - padbury clock 
-- trash-cli
 
 ### Necesities
 - [brew](https://brew.sh/)
@@ -170,6 +169,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### Zshell
 - ```sudo apt-get install zsh```
 
+### Trash cli
+- ``` sudo apt install trash-cli``` (trash-empty command to empty trash from terminal)
 
 ## Antergos-Arch
 
