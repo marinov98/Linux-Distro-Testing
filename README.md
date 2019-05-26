@@ -169,8 +169,15 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### Zshell
 - ```sudo apt-get install zsh```
 
+### i3wn
+- ```sudo apt install i3```
+
 ### Trash cli
 - ``` sudo apt install trash-cli``` (trash-empty command to empty trash from terminal)
+
+### feh
+- ```sudo apt install feh```
+
 
 ## Antergos-Arch
 
@@ -233,3 +240,6 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 
 ### Zshell
 - ```sudo pacman -S zsh```
+
+### Feh
+- ```sudo pacman -S feh```
