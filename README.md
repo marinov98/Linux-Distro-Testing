@@ -178,6 +178,8 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### feh
 - ```sudo apt install feh```
 
+### lxappearance & awesone fonts
+- ``` sudo apt install lxappearance fonts-font-awesome```
 
 ## Antergos-Arch
 
