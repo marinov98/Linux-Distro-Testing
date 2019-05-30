@@ -36,6 +36,7 @@
 - ```Bracket pair colorizer```
 - ```vim```
 - ```C++ && Clang Adapter```
+- ```clang format```
 - ```Python```
 - ```JavaScript```
 - ```gitlenns```
@@ -43,6 +44,11 @@
 - ```Bookmarks```
 - ```(git)project manager```
 - ```Live Share```
+- ```Beautify```
+- ```code runner```
+- ```Angluar 8 Snippets```
+- ```live server```
+- (possible react)
   
   
 ### Npm
