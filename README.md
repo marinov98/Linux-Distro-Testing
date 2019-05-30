@@ -172,6 +172,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### i3wn
 - ```sudo apt install i3```
 
+### i3-gaps
+- https://benjames.io/2017/09/03/installing-i3-gaps-on-ubuntu-16-04/ this also works on 18.04
+
 ### Trash cli
 - ``` sudo apt install trash-cli``` (trash-empty command to empty trash from terminal)
 
