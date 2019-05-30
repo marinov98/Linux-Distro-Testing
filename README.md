@@ -120,6 +120,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
   - ```git config --global user.name "Your Name"```
   - ```git config --global user.email "youremail@domain.com"```
 - GDB (debugger) ```sudo apt-get install gdb```
+- net-tools ```sudo apt-get install net-tools```
 
 ### Keyboard configuration
 - tweak tool (ubuntu) ```sudo add-apt-repository universe``` ```sudo apt install gnome-tweak-tool```
