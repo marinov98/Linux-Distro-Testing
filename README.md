@@ -48,6 +48,7 @@
 - ```code runner```
 - ```Angluar 8 Snippets```
 - ```live server```
+- ```vim```
 - (possible react)
   
   
