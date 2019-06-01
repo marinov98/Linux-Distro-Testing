@@ -192,6 +192,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### lxappearance & awesone fonts
 - ``` sudo apt install lxappearance fonts-font-awesome```
 
+### xrandr and arandr
+- ```sudo apt install xrandr arandr
+
 ## Antergos-Arch
 
 ### Commands
