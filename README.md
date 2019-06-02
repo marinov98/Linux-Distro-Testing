@@ -137,6 +137,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - LibClang ```sudo apt-get install libclang-dev```
 - llvm ```sudo apt-get install lldb```
 - ctags ```sudo apt-get install ctags```
+- ncurses ```sudo apt-get install libncurses5-dev libncursesw5-dev```
 - cmake ```sudo apt-get install cmake```
 - ranger: ```sudo apt-get install ranger```
 - nnn: ```sudoapt-get install nnn```
