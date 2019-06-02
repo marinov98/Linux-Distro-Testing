@@ -24,7 +24,7 @@
   - yapf: ```sudo pip install yapf``` 
   - pygments : ```sudo pip install pygments```
   - virtualenv & virtualenvwrapper: ```sudo pip install virtualenv virtualenvwrapper```
-  - powerline shell ```sudo pip install powerline-shell```
+  - powerline shell: ```sudo pip install powerline-shell```
   
 ### Extensions for vs code: 
 - ```Auto Close Tag```
