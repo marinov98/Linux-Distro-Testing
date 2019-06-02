@@ -17,13 +17,14 @@
 
 
 ### Pip (For Python developement)
-  - Rope: ```pip install rope``` 
-  - Jedi: ```pip install jedi``` 
-  - flake: ```pip install flake8``` 
-  - autopep: ```pip install autopep8```  
-  - yapf: ```pip install yapf``` 
-  - pygments : ```pip install pygments```
-  - virtualenv & virtualenvwrapper: ```pip install virtualenv virtualenvwrapper```
+  - Rope: ```sudo pip install rope``` 
+  - Jedi: ```sudo pip install jedi``` 
+  - flake: ```sudo pip install flake8``` 
+  - autopep: ```sudo pip install autopep8```  
+  - yapf: ```sudo pip install yapf``` 
+  - pygments : ```sudo pip install pygments```
+  - virtualenv & virtualenvwrapper: ```sudo pip install virtualenv virtualenvwrapper```
+  - powerline shell ```sudo pip install powerline-shell```
   
 ### Extensions for vs code: 
 - ```Auto Close Tag```
