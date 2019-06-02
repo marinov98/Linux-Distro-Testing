@@ -206,6 +206,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Hack: ``` sudo pacman -S ttf-hack ```
 - Source Code Pro: ``` sudo pacman -S adobe-source-code-pro-fonts ```
 
+### neofetch
+- ```sudo apt install neofetch```
+
 ####  General Programming
 -  ``` sudo pacman -S git ```
 - ``` sudo pacman -S gdb ```
