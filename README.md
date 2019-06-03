@@ -56,6 +56,7 @@
 ### Npm
 - tern: ```sudo npm install -g tern```
 - eslint: ```npm install eslint```
+- react ```sudo npm install -g create-react-app```
   
 ## MacOS
 
