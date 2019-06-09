@@ -4,7 +4,7 @@
 # Table of Contents
 1. [MacOS](#MacOs)
 2. [Ubuntu](#Ubuntu)
-3. [Antergos-Arch](#Antergos-Arch)
+3. [Antergos(Arch-based)](#Antergos-Arch)
 
 ### Good Fonts For Programming
 - Hack (Personal Favorite)
