@@ -248,7 +248,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - ``` sudo pacman -S npm ```
 
 ### Browsing, neftlix & Video Player
-- ``` sudo packman -S google-chrome ```
+- ``` sudo pacman -S google-chrome ```
 -  ``` sudo pacman -S chrome-widevine ```
 -  ``` sudo pacman -S pepper-flash ```
 - ``` sudo pacman -S vlc ```
