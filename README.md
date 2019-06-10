@@ -201,7 +201,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - ``` sudo apt install lxappearance fonts-font-awesome```
 
 ### xrandr and arandr
-- ```sudo apt install xrandr arandr
+- ```sudo apt install xrandr arandr```
 
 ### neofetch
 - ```sudo apt install neofetch```
