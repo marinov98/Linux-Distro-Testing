@@ -4,7 +4,7 @@
 # Table of Contents
 1. [MacOS](#MacOs)
 2. [Ubuntu](#Ubuntu)
-3. [Antergos(Arch-based)](#Antergos-Arch)
+3. [Arch-based distros](#Arch-based)
 
 ### Good Fonts For Programming
 - Fira Code (New personal favorite)
@@ -199,7 +199,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### xrandr and arandr
 - ```sudo apt install xrandr arandr
 
-## Antergos-Arch
+## Arch-based
 
 ### Commands
 - Install Command ``` sudo pacman -S [package-name] ```
