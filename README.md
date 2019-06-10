@@ -139,7 +139,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 
 ### Programming 
 - build-essential ```sudo apt-get install build-essential```
-- Gcc ```sudo-apt get install gcc```
+- Gcc ```sudo-apt-get install gcc```
 - Clang ```sudo apt-get install clang```
 - LibClang ```sudo apt-get install libclang-dev```
 - llvm ```sudo apt-get install lldb```
