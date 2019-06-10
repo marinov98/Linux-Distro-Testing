@@ -15,7 +15,7 @@
 # Tiling managers and terminal multiplexers
 - i3wn
 - tmux
-
+- iTerm(mac only)
 
 ### Pip (For Python developement)
   - Rope: ```sudo pip install rope``` 
