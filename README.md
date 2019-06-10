@@ -58,6 +58,10 @@
 - tern: ```sudo npm install -g tern```
 - eslint: ```npm install eslint```
 - react ```sudo npm install -g create-react-app```
+- reactstrap
+- bootstrap
+- typscript, tslint
+- web
   
 ## MacOS
 
@@ -199,6 +203,9 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ### xrandr and arandr
 - ```sudo apt install xrandr arandr
 
+### neofetch
+- ```sudo apt install neofetch```
+
 ## Arch-based
 
 ### Commands
@@ -211,7 +218,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 - Source Code Pro: ``` sudo pacman -S adobe-source-code-pro-fonts ```
 
 ### neofetch
-- ```sudo apt install neofetch```
+- ```sudo pacman -S neofetch```
 
 ####  General Programming
 -  ``` sudo pacman -S git ```
