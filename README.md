@@ -115,7 +115,7 @@ Karabiner: ```brew cask install karabiner karabiner-elements```
 ## Ubuntu
 
 ### Commands
-- ```apt-get``` can be replaced with ```apt```ex
+- ```apt-get``` can be replaced with ```apt```
 - Install Command ```sudo apt-get install [package-name]```
 - Delete Command ```sudo apt-get remove [package-name]```
 - Update Command ```sudo apt-get upgrade [package-name]```
