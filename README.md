@@ -7,7 +7,8 @@
 3. [Antergos(Arch-based)](#Antergos-Arch)
 
 ### Good Fonts For Programming
-- Hack (Personal Favorite)
+- Fira Code (New personal favorite)
+- Hack (old Personal Favorite)
 - Source Code Pro
 - Inconsolata
 
