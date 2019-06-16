@@ -50,8 +50,7 @@
 - ```code runner```
 - ```Angluar 8 Snippets```
 - ```live server```
-- ```vim```
-- (possible react)
+- ```react,redux... snippets```(this one is long but very recognizable)
   
   
 ### Npm
